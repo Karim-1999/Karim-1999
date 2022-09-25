@@ -3,18 +3,15 @@
 #### Assalam alaycom, sono Karim benvenuti nel mio profilo buona lettura.
 #### Attualmente sto affrontando un corso intensivo di 6 mesi con Develhope, sto acquisendo così le skill necessarie per affacciarmi al mondo della programmazione.
 
-## A questo punto del percorso di studi, sto lavorando con:
+## Studio con piacere e passione i seguenti linguaggi/tecnologie:
 
 - 	🟢 HTML5
 - 	🟢 CSS
 - 	🟢 SCSS
 - 	🟢 Javascript
-
-## Prevedo nei prossimi mesi di trattare:
--   ⚪ React
--   ⚪ Typescript
--   ⚪ Node.js
-
+- 	🟢 React
+- 	🟢 Typescript
+- 	🟢 Node.js
 --- 
 
 <h3 align="center">
@@ -50,6 +47,6 @@ I am committed to learn more and more, to be part of a collaborative team and to
 </div>
 
 ---
-Check out my career updates on my LinkedIn profile:  <a href="https://www.linkedin.com/in/zouhirkarim1999/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+Check out my career updates on my LinkedIn profile:  &nbsp <a href="https://www.linkedin.com/in/zouhirkarim1999/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
