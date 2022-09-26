@@ -3,6 +3,8 @@
 #### Assalam alaycom, sono Karim benvenuti nel mio profilo buona lettura.
 #### Attualmente sto affrontando un corso intensivo di 6 mesi con Develhope, sto acquisendo così le skill necessarie per affacciarmi al mondo della programmazione.
 
+<a href="https://radicatinellaprogrammazione.000webhostapp.com">Clicca qui per vedere il mio bellissimo sito professionale </a>😁😊
+
 ## Studio con piacere e passione i seguenti linguaggi/tecnologie:
 
 - 	🟢 HTML5
