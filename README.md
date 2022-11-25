@@ -3,7 +3,7 @@
 #### Assalam alaycom, sono Karim benvenuti nel mio profilo buona lettura.
 #### Attualmente sto affrontando un corso intensivo di 6 mesi con Develhope, sto acquisendo così le skill necessarie per affacciarmi al mondo della programmazione.
 
-<a  href="[https://radicatinellaprogrammazione.000webhostapp.com](https://karimzouhir-portfolio.netlify.app/)" target="_blank" >Clicca qui per vedere il mio  sito portfolio </a>😁😊
+<a  href="https://karimzouhir-portfolio.netlify.app/" target="_blank" >Clicca qui per vedere il mio  sito portfolio </a>😁😊
 
  
 
