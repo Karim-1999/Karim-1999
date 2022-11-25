@@ -3,52 +3,34 @@
 #### Assalam alaycom, sono Karim benvenuti nel mio profilo buona lettura.
 #### Attualmente sto affrontando un corso intensivo di 6 mesi con Develhope, sto acquisendo così le skill necessarie per affacciarmi al mondo della programmazione.
 
-<a href="https://radicatinellaprogrammazione.000webhostapp.com" target="_blank" >Clicca qui per vedere il mio bellissimo sito professionale </a>😁😊
+<a  href="[https://radicatinellaprogrammazione.000webhostapp.com](https://karimzouhir-portfolio.netlify.app/)" target="_blank" >Clicca qui per vedere il mio  sito portfolio </a>😁😊
 
-## Studio con piacere e passione i seguenti linguaggi/tecnologie:
-
-- 	🟢 HTML5
-- 	🟢 CSS
-- 	🟢 SCSS
-- 	🟢 Javascript
-- 	🟢 React
-- 	🟢 Typescript
-- 	🟢 Node.js
---- 
-
-<h3 align="center">
-  Hi there! Nice to meet you 😊
-</h3>
-
-<h3 align="center">
-  I am Karim, Junior Full-Stack Developer from Italy 
-</h3>
-
-
-<div id="gif" align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="200"/>
-</div>
+ 
 
 
 ---
-
-<h4>About me:</h4>
 
 I have always had the passion and curiosity towards the world of IT and I like to work on code and create online realities. I love therefore the <strong>Web Development. 💻🖤</strong>
 I am committed to learn more and more, to be part of a collaborative team and to learn soon "the tricks of the trade".
 
 <h4>Programming languages & technologies I am studying:</h4>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+    Hard skills
+        <p align="left" >
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style={{textAlign: "center"}} /> html </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /> CSS</a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /> SASS</a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /> Bootstrap</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> JavaScript</a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /> TypeScript</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /> React</a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /> NodeJS</a>
 
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="36" height="36" alt="Canva" /> Canva</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /> Figma</a>
+<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"><img src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png" width="36" height="36" alt="Shopify" /> Shopify</a>
+<a href="https://www.blackmagicdesign.com/it/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" width="36" height="36" alt="DaVinci Resolve" /> DaVinci Resolve</a>
+<a href="https://firebase.google.com/brand-guidelines" target="_blank" rel="noreferrer"><img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" width="36" height="36" alt="Firebase" /> Firebase</a>
 ---
-Check out my career updates on my LinkedIn profile:  &nbsp <a href="https://www.linkedin.com/in/zouhirkarim1999/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+Check out my career updates on my LinkedIn profile:  <a href="https://www.linkedin.com/in/zouhirkarim1999/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
