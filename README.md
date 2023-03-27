@@ -44,5 +44,5 @@ Check out my career updates on my LinkedIn profile:  <a href="https://www.linked
 <a href="https://www.microsoft.com/it-it/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" width="36" height="36" alt="SQL" /> SQL</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.pngrepo.com/png/331488/512/mongodb.png" width="36" height="36" alt="MongoDB" /> MongoDB</a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" /> Angular</a>
- <a href="[#](https://it.wikipedia.org/wiki/Ottimizzazione_per_i_motori_di_ricerca)" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/8-86124_seo-digital-marketing-icon-hd-png-download.png" width="36" height="36" alt="SEO" /> SEO</a>
+ <a href="https://it.wikipedia.org/wiki/Ottimizzazione_per_i_motori_di_ricerca" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/8-86124_seo-digital-marketing-icon-hd-png-download.png" width="36" height="36" alt="SEO" /> SEO</a>
 
