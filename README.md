@@ -1,7 +1,17 @@
 ## Let me introduce my self:
 
 #### Assalam alaycom, sono Karim benvenuti nel mio profilo buona lettura.
-#### Attualmente sto affrontando un corso intensivo di 6 mesi con Develhope, sto acquisendo così le skill necessarie per affacciarmi al mondo della programmazione.
+#### Ciao a tutti👋 ! Mi chiamo Karim e sono un Junior Full Stack Developer appassionato di tecnologie web e mobile 😊
+
+Con esperienza nello sviluppo software, ho acquisito competenze solide nella programmazione full stack utilizzando JavaScript, PHP, HTML, CSS, e diverse librerie e framework come React, Anlgular, Node.js, e Express
+
+Ho esperienza nello sviluppo siti web con WordPress e Shopify
+
+Mi piace lavorare in team (in modalità agile scrum) e sono sempre alla ricerca di nuove opportunità per imparare e crescere professionalmente. Durante il mio tempo libero, mi piace esplorare nuove tecnologie e partecipare a progetti open source
+
+Mi considero un problem solver creativo e mi piace affrontare sfide complesse utilizzando la mia conoscenza delle tecnologie web. Sono sempre motivato a creare soluzioni innovative che possono aiutare le aziende a raggiungere i loro obiettivi
+
+Se siete alla ricerca di un Junior Full Stack Developer motivato e appassionato, non esitate a contattarmi. Sarò felice di unirmi al vostro team e contribuire al successo del vostro progetto 😊
 
 <a  href="https://karimzouhir-portfolio.netlify.app/" target="_blank" >Clicca qui per vedere il mio  sito portfolio </a>😁😊
 
